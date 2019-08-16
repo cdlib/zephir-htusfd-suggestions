@@ -127,3 +127,4 @@ data/zephir-oclc-feddocs-dataset.manifest.json
 feddoc_oclc_nums/
 data/feddoc_oclc_nums.txt
 data/feddoc_oclc_nums.manifest.json
+data/zephir-htusfd-overlap.csv
