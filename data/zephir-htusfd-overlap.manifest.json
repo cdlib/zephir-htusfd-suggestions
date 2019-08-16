@@ -1,0 +1,31 @@
+{
+    "name": "zephir-htusfd-overlap",
+    "description": "Dataset representing the OCLC overlap between Zephir OCLCS and the HT US Fed Docs OCLCS",
+    "datetime": "2019-08-16T22:54:54.501369",
+    "schema": {
+        "oclc": "object",
+        "cid": "object",
+        "contributor_code": "object",
+        "collection_code": "object",
+        "contribsys_id": "object",
+        "htid": "object",
+        "usfd_status": "bool"
+    },
+    "format": {
+        "delimiter": ",",
+        "encoding": "utf8",
+        "extension": "csv",
+        "header": true,
+        "type": "delimited"
+    },
+    "data-origins": [
+        {
+            "origin": "zephir-oclc-feddocs-dataset.csv",
+            "datetime": "2019-08-16T22:41:27.671011"
+        },
+        {
+            "origin": "feddoc_oclc_nums.txt",
+            "datetime": "2019-08-15T14:24:03"
+        }
+    ]
+}
