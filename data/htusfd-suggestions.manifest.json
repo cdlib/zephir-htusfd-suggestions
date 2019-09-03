@@ -1,7 +1,7 @@
 {
     "name": "htusfd-suggestions",
     "description": "Dataset for identifying possible unmarked USFD by contributor",
-    "datetime": "2019-08-16T22:57:30.629097",
+    "datetime": "2019-09-03T19:04:04.767757",
     "schema": {
         "cid": "object",
         "contributor_code": "object",
@@ -18,7 +18,7 @@
     "data-origins": [
         {
             "origin": "zephir-htusfd-overlap.csv",
-            "datetime": "2019-08-16T22:54:54.501369"
+            "datetime": "2019-09-03T19:01:42.875874"
         }
     ]
 }
